@@ -1,8 +1,8 @@
-# 📧 Email Threat Analysis Lab – Senior SOC Analyst Portfolio Project
+# 📧 Email Threat Analysis
 
 ## 🔍 Overview
 
-This repository demonstrates **end-to-end email threat analysis** contains a comprehensive guide and technical documentation for investigating sophisticated email-based attacks. It focuses on the triage and analysis of email headers, body content (payloads), and attachments using industry-standard tools
+This repository demonstrates **end-to-end email threat analysis** contains a comprehensive guide and technical documentation for investigating sophisticated email-based attacks. It focuses on the triage and analysis of email headers, body content (payloads), and attachments using industry-standard tools.
 
 It simulates real-world investigations involving:
 
