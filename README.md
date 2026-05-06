@@ -261,18 +261,9 @@ EmailEvents
 
 ---
 
-## 📌 Future Enhancements
-
-* Integrate real SIEM dashboards (mock screenshots)
-* Add automated phishing triage scripts (Python)
-* Expand threat hunting queries
-* Include Proofpoint / Abnormal Security use cases
-
----
-
 ## 👤 Author
 
-Christopher Rajasekar.
+**Christopher Rajasekar (https://github.com/Chrisrajasekar)**
 
 Focused on Email Security, Phishing Response & Threat Detection
 
