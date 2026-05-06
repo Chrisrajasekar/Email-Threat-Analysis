@@ -1,2 +1,3 @@
-# Email-Threat-Analysis
-Demonstrates end-to-end email threat analysis of Phishing attacks, Business Email Compromise (BEC), Malicious attachments and payload delivery, Suspicious links and redirections
+# Email Threat Analysis Lab
+
+Mock project with samples and screenshots.
